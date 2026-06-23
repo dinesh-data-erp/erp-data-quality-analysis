@@ -74,11 +74,13 @@ The project focused on:
 
 ## Tools Used
 
-- Power BI
-- SQL
-- Excel
-- ERP Data Quality Reports
-- Root Cause Analysis
+| Tool | Purpose |
+|--------|--------|
+| Power BI | Dashboard development |
+| SQL | Data analysis and reporting |
+| Excel | Data validation and exploration |
+| ERP Data Quality Reports | Error identification |
+| Root Cause Analysis | Problem investigation |
 
 ---
 
