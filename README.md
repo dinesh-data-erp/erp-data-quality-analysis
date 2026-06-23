@@ -37,6 +37,10 @@ The project focused on:
 
 ![ERP Dashboard](images/dashboard-overview.png)
 
+## Error Concentration Analysis
+
+![Error Analysis](images/error-analysis.png)
+
 ---
 
 ## Key Findings
